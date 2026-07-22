@@ -14,12 +14,12 @@ pipeline after that — and make the whole thing work together.
 
 **Stack**
 
-`PHP` `Python` `TypeScript` `MySQL` — Backend & Data
-`JavaScript` `Bootstrap` — Frontend
-`Flutter` `Dart` — Mobile
-`AWS` `Terraform` `GitHub Actions` — Cloud & Infrastructure
-`CyberPanel` `OpenLiteSpeed` — Server Administration
-`WhatsApp Cloud API` `PDF Generation` `LibreOffice Automation` — Integrations & Document Processing
+- **Backend & Data:** `PHP` `Python` `TypeScript` `MySQL`
+- **Frontend:** `JavaScript` `Bootstrap`
+- **Mobile:** `Flutter` `Dart`
+- **Cloud & Infrastructure:** `AWS` `Terraform` `GitHub Actions`
+- **Server Administration:** `CyberPanel` `OpenLiteSpeed`
+- **Integrations & Document Processing:** `WhatsApp Cloud API` `PDF Generation` `LibreOffice Automation`
 
 ---
 

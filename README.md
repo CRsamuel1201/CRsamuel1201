@@ -31,9 +31,6 @@ HR platform covering the full hiring cycle — candidate outreach via WhatsApp a
 **Offline-First Dispatch App**
 A Flutter mobile app built for field logistics teams with unreliable connectivity, syncing dispatch data seamlessly once a connection is restored.
 
-**Satellite Deforestation Analysis**
-Remote-sensing project using morphological image operations to detect and quantify deforestation from satellite imagery, achieving an R² of 0.686. Built collaboratively as part of academic research.
-
 ---
 
 #### Currently

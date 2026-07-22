@@ -25,8 +25,7 @@ I haven't picked one narrow lane, and that's deliberate. Most problems worth sol
 **Sales Data Processing Platform**
 End-to-end sales operations system: high-volume sales data processed and rendered across every operational view, automated WhatsApp dispatch to the sales team, all backed by a cloud-hosted database connected to a companion mobile app used in the field.
 
-**Integrated Talent Management Module**
-HR platform covering the full hiring cycle — candidate outreach via WhatsApp and email — alongside personnel records and performance analytics. Built to give small and mid-sized companies a single source of truth for their team.
+HR Operations Platform — Employee lifecycle management system covering contract generation with e-signature, automated payroll & overtime calculation, uniform/equipment tracking, and personnel file management. Built for a 150-employee logistics company to replace manual paperwork, WhatsApp-based coordination, and spreadsheet payroll with a single source of truth.
 
 **Offline-First Dispatch App**
 A Flutter mobile app built for field logistics teams with unreliable connectivity, syncing dispatch data seamlessly once a connection is restored.
